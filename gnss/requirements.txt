@@ -1,0 +1,4 @@
+pyserial
+smbus2
+pytz==2023.3.post1
+nats-py

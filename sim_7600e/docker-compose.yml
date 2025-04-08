@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  sim7600e:
+    build: .
+    container_name: sim7600e_container
+    privileged: true  # Дает контейнеру полный доступ к устройствам
+    volumes:
+      - ./logs:/app/logs
+      - ./config:/app/config
+    environment:
+      - CONFIG_PATH=/app/config/settings.ini
+    devices:
+      - "/dev/ttyUSB0:/dev/ttyUSB0"
+    network_mode: "host"

@@ -1,0 +1,99 @@
+version: '3.8'  # Используем актуальную версию формата compose
+
+services:
+  # Сервис GNSS приемника (высокоприоритетный)
+  gnss:
+    build: ./gnss  # Сборка из Dockerfile в папке ./gnss
+    container_name: gnss_container  # Фиксированное имя контейнера
+    privileged: true  # Полный доступ к устройствам (необходимо для работы с /dev)
+    volumes:
+      - /home/admin/gnss/config:/app/config  # Монтирование конфигов
+      - /home/admin/gnss/logs:/app/logs  # Монтирование логов
+    cpuset: "3,2"               # Исправлено: только CPU 3 (было "3,0,1,2" - ошибка)
+    cpu_shares: 1024          # Наивысший приоритет (относительно других контейнеров)
+    cpus: 0.85                # Лимит 85% одного ядра
+    devices:
+      - "/dev/ttyAMA0:/dev/ttyAMA0"  # Доступ к последовательному порту
+      - "/dev/i2c-1:/dev/i2c-1"  # Доступ к I2C
+    network_mode: "host"  # Используем сетевой стек хоста
+    restart: unless-stopped  # Автоперезапуск при падении
+    healthcheck:  # Проверка работоспособности
+      test: ["CMD", "pgrep", "-x", "gnss_process"]  # Проверка процесса
+      interval: 30s  # Интервал проверки
+      timeout: 5s  # Таймаут
+      retries: 3  # Количество попыток
+
+  # Сервис работы с CAN-шиной
+  can_service:
+    build: ./can
+    container_name: can_container
+    privileged: true
+    volumes:
+      - /home/admin/can/logs:/app/logs  # Логи CAN
+      - /home/admin/can/config:/app/config  # Конфиги CAN
+    cpuset: "0"               # Закреплено за CPU 0
+    cpu_shares: 768           # Высокий приоритет (меньше чем у GNSS)
+    cpus: 0.7                 # Лимит 70% ядра
+    devices:
+      - "/dev/can1:/dev/can1"  # Доступ к CAN-устройству
+    network_mode: "host"
+    restart: unless-stopped
+
+  # Сервис датчиков (IMU, температура и др.)
+  sense_service:
+    build: ./sense
+    container_name: sense_container
+    privileged: true
+    volumes:
+      - /home/admin/sense/logs:/app/logs  # Логи датчиков
+      - /home/admin/sense/config:/app/config  # Конфиги датчиков
+    cpuset: "1"               # Закреплено за CPU 1
+    cpu_shares: 512           # Средний приоритет
+    devices:
+      - "/dev/i2c-1:/dev/i2c-1"  # Доступ к I2C (общий с другими сервисами)
+    network_mode: "host"
+    restart: unless-stopped
+
+  # Сервис модема SIM7600
+  sim7600e:
+    build: ./sim_7600e
+    container_name: sim_7600e_container
+    privileged: true
+    volumes:
+      - /home/admin/sim_7600e/config:/app/config  # Конфиги модема
+      - /home/admin/sim_7600e/logs:/app/logs  # Логи модема
+    cpuset: "2"               # Закреплено за CPU 2
+    cpu_shares: 256           # Низкий приоритет
+    cpus: 0.4                 # Лимит 40% ядра
+    devices:
+      - "/dev/ttyUSB0:/dev/ttyUSB0"  # Доступ к последовательному порту модема
+    network_mode: "host"
+    restart: unless-stopped
+
+  # Сервис мониторинга ИБП
+  ups:
+    build: ./ups
+    container_name: ups_container
+    privileged: true
+    volumes:
+      - /home/admin/ups/logs:/app/logs  # Логи ИБП
+      - /home/admin/ups/config:/app/config  # Конфиги ИБП
+    cpuset: "0"               # Совместное использование CPU 0 с CAN
+    cpu_shares: 128           # Минимальный приоритет
+    cpus: 0.15                # Лимит 15% ядра
+    devices:
+      - "/dev/i2c-1:/dev/i2c-1:rw"  # Доступ с правами записи для управления
+    network_mode: "host"
+    restart: unless-stopped
+    depends_on:
+      - can_service  # Зависимость от CAN-сервиса (стартует после него)
+
+# Общие рекомендации:
+# 1. Все сервисы используют host network для минимальных задержек
+# 2. Для работы с устройствами требуются privileged: true
+# 3. Логи и конфиги хранятся на хосте через volumes
+# 4. Распределение CPU:
+#    - CPU 0: CAN (70%) + UPS (15%)
+#    - CPU 1: Sense (100%)
+#    - CPU 2: SIM7600 (40%)
+#    - CPU 3: GNSS (85%)

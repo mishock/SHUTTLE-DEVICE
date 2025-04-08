@@ -1,0 +1,3 @@
+pyserial
+configparser
+nats-py

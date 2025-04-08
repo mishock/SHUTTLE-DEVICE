@@ -1,0 +1,120 @@
+2025-04-02 10:31:18,681 - ERROR - NATS server nats://10.10.0.110:4222 is unreachable
+2025-04-02 10:33:23,894 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:25,171 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:26,443 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:27,719 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:28,977 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:30,239 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:31,507 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:32,762 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:34,032 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:35,299 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:36,568 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:37,838 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:39,109 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:40,388 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:41,661 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:42,933 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:44,194 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:45,464 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:46,740 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:48,015 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:49,286 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:50,557 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:51,824 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:53,078 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:54,347 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:55,627 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:56,898 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:58,171 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:33:59,451 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:00,718 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:01,973 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:03,250 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:04,522 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:05,793 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:07,070 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:08,342 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:09,614 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:10,888 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:12,161 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:13,430 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:14,706 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:15,994 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:17,270 - WARNING - NATS buffer full, discarding oldest message
+2025-04-02 10:34:17,312 - INFO - NATS connection restored, successfully sent data
+2025-04-02 10:54:44,834 - ERROR - NATS server nats://10.10.0.110:4222 is unreachable
+2025-04-02 10:55:07,503 - INFO - NATS connection restored, successfully sent data
+2025-04-05 02:34:22,496 - ERROR - NATS server nats://10.10.0.110:4222 is unreachable
+2025-04-05 02:35:04,811 - INFO - NATS connection restored, successfully sent data
+2025-04-03 08:10:51,842 - ERROR - NATS server nats://10.10.0.110:4222 is unreachable
+2025-04-03 08:11:02,568 - INFO - NATS connection restored, successfully sent data
+2025-04-03 09:10:14,049 - ERROR - NATS server nats://10.10.0.110:4222 is unreachable
+2025-04-03 09:10:15,674 - INFO - NATS connection restored, successfully sent data
+2025-04-03 09:53:10,933 - ERROR - NATS server nats://10.10.0.110:4222 is unreachable
+2025-04-04 06:29:01,703 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:02,707 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:03,709 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:04,710 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:05,712 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:06,713 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:07,714 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:08,716 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:09,717 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:10,718 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:11,720 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:12,721 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:13,723 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:14,724 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:15,725 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:16,727 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:17,728 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:18,730 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:19,731 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:20,732 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:21,734 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:22,735 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:23,737 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:24,738 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:25,739 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:26,741 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:27,743 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:28,745 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:29,747 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:30,748 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:31,750 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:32,751 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:33,752 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:34,754 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:35,755 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:36,757 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:37,758 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:38,759 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:39,760 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:40,762 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:41,763 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:42,764 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:43,765 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:44,766 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:45,768 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:46,769 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:47,771 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:48,772 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:49,774 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:50,775 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:51,776 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:52,778 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:53,779 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:54,781 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:55,782 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:56,783 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:57,785 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:58,785 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:29:59,787 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:30:00,788 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:30:01,790 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:30:02,791 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:30:03,792 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:30:04,794 - ERROR - Sensor data processing error: [Errno 5] Input/output error
+2025-04-04 06:31:48,703 - ERROR - Sensor data processing error: [Errno 121] Remote I/O error
+2025-04-04 07:16:13,637 - ERROR - NATS server nats://10.10.0.110:4222 is unreachable

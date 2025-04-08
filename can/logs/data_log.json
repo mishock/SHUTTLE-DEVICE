@@ -1,0 +1,1273 @@
+[
+    {
+        "timestamp": "2025-04-07 12:07:32",
+        "can_error": null,
+        "engine_coolant_temperature": null,
+        "engine_rpm": null,
+        "vehicle_speed": null
+    },
+    {
+        "timestamp": "2025-04-07 12:07:33",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:33",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:33",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:34",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:34",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:34",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:35",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:36",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:36",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:36",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:37",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:37",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:37",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:38",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:38",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:39",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:39",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:39",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:40",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:40",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:40",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:41",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:42",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:42",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:42",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:43",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:43",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:43",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:44",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:44",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:45",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:45",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:45",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:46",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:46",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:46",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:47",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:48",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:48",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:48",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:49",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:49",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:49",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:50",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:50",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:51",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:51",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:51",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:52",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:52",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:52",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:53",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:54",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:54",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:54",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:55",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:55",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:56",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:56",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:56",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:57",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:57",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:57",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:58",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:58",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:58",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:07:59",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:08:00",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:08:00",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:08:00",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:08:01",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:08:01",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:08:01",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:08:02",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:08:02",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:08:03",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:08:03",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:08:03",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    },
+    {
+        "timestamp": "2025-04-07 12:08:04",
+        "can_error": null,
+        "engine_coolant_temperature": {
+            "value": 40,
+            "unit": "C"
+        },
+        "engine_rpm": {
+            "value": 3072.0,
+            "unit": "RPM"
+        },
+        "vehicle_speed": {
+            "value": 112,
+            "unit": "km/h"
+        }
+    }
+]

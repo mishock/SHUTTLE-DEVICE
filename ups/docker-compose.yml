@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  ups_project:
+    build: .
+    container_name: ups_container
+    privileged: true
+    volumes:
+      - ./logs:/app/logs
+      - ./config:/app/config
+    environment:
+      - CONFIG_PATH=/app/config/settings.ini
+    devices:
+      - "/dev/i2c-1:/dev/i2c-1"  # Доступ к I2C
+      - "/dev/i2c-1:/dev/i2c-1:rw"  # Добавляем права на запись для управления питанием
+    network_mode: "host"

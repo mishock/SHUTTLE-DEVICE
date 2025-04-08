@@ -1,0 +1,9 @@
+
+
+Откройте редактор crontab:
+
+crontab -e
+
+Добавьте строку для выполнения команды при старте системы:
+
+@reboot cd /home/admin/ && /usr/local/bin/docker-compose up -d --build

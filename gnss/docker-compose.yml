@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  gnss:
+    build: .
+    container_name: gnss_container
+    privileged: true  # Дает контейнеру полный доступ к устройствам
+    volumes:
+      - ./logs:/app/logs
+      - ./config:/app/config
+    environment:
+      - CONFIG_PATH=/app/config/settings.ini
+    devices:
+      - "/dev/ttyAMA0:/dev/ttyAMA0"
+      - "/dev/i2c-1:/dev/i2c-1"  # Доступ к I2C устройству
+    network_mode: "host"

@@ -1,0 +1,4760 @@
+[
+    {
+        "timestamp": "2025-04-03 09:53:03",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:57:38",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:04",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:08",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:57:43",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:12",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:57:47",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:15",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:57:50",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:19",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:57:54",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:23",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:57:58",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:27",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:02",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:31",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:06",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:35",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:10",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:39",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:14",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:42",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:17",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:46",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:21",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:50",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:53",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:29",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:53:58",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:33",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:02",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:37",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:06",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:41",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:10",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:45",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:14",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:49",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:18",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:53",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:22",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:58:57",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:26",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:01",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:30",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:05",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:34",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:09",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:38",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:13",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:42",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:17",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:46",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:21",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:50",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:25",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:54",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:29",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:54:57",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:33",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:55:01",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:37",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:55:04",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:40",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:55:07",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:43",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:55:12",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:47",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:55:15",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:51",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:55:18",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:54",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:55:21",
+        "decoded": {
+            "type": "RMC",
+            "time": "09:59:57",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:55:25",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:00:01",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:55:59",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:00:35",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:00",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:01",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:00:35",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:02",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:03",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:05",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 1,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 2,
+                    "elevation": 59,
+                    "azimuth": 151,
+                    "snr": 45
+                },
+                {
+                    "satellite_id": 3,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": 39
+                },
+                {
+                    "satellite_id": 5,
+                    "elevation": 36,
+                    "azimuth": 106,
+                    "snr": 42
+                },
+                {
+                    "satellite_id": 7,
+                    "elevation": 76,
+                    "azimuth": 336,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:06",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 2,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 9,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": 42
+                },
+                {
+                    "satellite_id": 11,
+                    "elevation": 14,
+                    "azimuth": 46,
+                    "snr": 39
+                },
+                {
+                    "satellite_id": 12,
+                    "elevation": 24,
+                    "azimuth": 135,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 18,
+                    "elevation": 38,
+                    "azimuth": 214,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:07",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 3,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 20,
+                    "elevation": 31,
+                    "azimuth": 60,
+                    "snr": 42
+                },
+                {
+                    "satellite_id": 25,
+                    "elevation": 59,
+                    "azimuth": 151,
+                    "snr": 45
+                },
+                {
+                    "satellite_id": 26,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": null
+                },
+                {
+                    "satellite_id": 28,
+                    "elevation": 34,
+                    "azimuth": 260,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:08",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 4,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 29,
+                    "elevation": 76,
+                    "azimuth": 336,
+                    "snr": 47
+                },
+                {
+                    "satellite_id": 31,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:13",
+        "decoded": {
+            "type": "ZDA",
+            "time": "10:00:35",
+            "day": 3,
+            "month": 4,
+            "year": 2025,
+            "utc_offset_hour": 0,
+            "utc_offset_minute": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:14",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:00:36",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:15",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:16",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:00:36",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:17",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:29",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:05",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:30",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:31",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:01:05",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:32",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:33",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:34",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 1,
+            "satellites_in_view": 15,
+            "satellites": [
+                {
+                    "satellite_id": 2,
+                    "elevation": 60,
+                    "azimuth": 150,
+                    "snr": null
+                },
+                {
+                    "satellite_id": 3,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 5,
+                    "elevation": 36,
+                    "azimuth": 104,
+                    "snr": null
+                },
+                {
+                    "satellite_id": 6,
+                    "elevation": null,
+                    "azimuth": null,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:35",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 2,
+            "satellites_in_view": 15,
+            "satellites": [
+                {
+                    "satellite_id": 7,
+                    "elevation": 75,
+                    "azimuth": 340,
+                    "snr": 47
+                },
+                {
+                    "satellite_id": 9,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 11,
+                    "elevation": 13,
+                    "azimuth": 46,
+                    "snr": 39
+                },
+                {
+                    "satellite_id": 12,
+                    "elevation": 24,
+                    "azimuth": 134,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:36",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 3,
+            "satellites_in_view": 15,
+            "satellites": [
+                {
+                    "satellite_id": 18,
+                    "elevation": 39,
+                    "azimuth": 214,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 20,
+                    "elevation": 30,
+                    "azimuth": 59,
+                    "snr": 39
+                },
+                {
+                    "satellite_id": 25,
+                    "elevation": 60,
+                    "azimuth": 150,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 26,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:37",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 4,
+            "satellites_in_view": 15,
+            "satellites": [
+                {
+                    "satellite_id": 28,
+                    "elevation": 35,
+                    "azimuth": 260,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 29,
+                    "elevation": 75,
+                    "azimuth": 340,
+                    "snr": 47
+                },
+                {
+                    "satellite_id": 31,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:43",
+        "decoded": {
+            "type": "ZDA",
+            "time": "10:01:05",
+            "day": 3,
+            "month": 4,
+            "year": 2025,
+            "utc_offset_hour": 0,
+            "utc_offset_minute": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:44",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:06",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:45",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:46",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:01:06",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:47",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:48",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:49",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 1,
+            "satellites_in_view": 15,
+            "satellites": [
+                {
+                    "satellite_id": 2,
+                    "elevation": 60,
+                    "azimuth": 150,
+                    "snr": null
+                },
+                {
+                    "satellite_id": 3,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 5,
+                    "elevation": 36,
+                    "azimuth": 104,
+                    "snr": null
+                },
+                {
+                    "satellite_id": 6,
+                    "elevation": null,
+                    "azimuth": null,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:50",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 2,
+            "satellites_in_view": 15,
+            "satellites": [
+                {
+                    "satellite_id": 7,
+                    "elevation": 75,
+                    "azimuth": 340,
+                    "snr": 48
+                },
+                {
+                    "satellite_id": 9,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 11,
+                    "elevation": 13,
+                    "azimuth": 46,
+                    "snr": 39
+                },
+                {
+                    "satellite_id": 12,
+                    "elevation": 24,
+                    "azimuth": 134,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:51",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 3,
+            "satellites_in_view": 15,
+            "satellites": [
+                {
+                    "satellite_id": 18,
+                    "elevation": 39,
+                    "azimuth": 214,
+                    "snr": 41
+                },
+                {
+                    "satellite_id": 20,
+                    "elevation": 30,
+                    "azimuth": 59,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 25,
+                    "elevation": 60,
+                    "azimuth": 150,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 26,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:52",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 4,
+            "satellites_in_view": 15,
+            "satellites": [
+                {
+                    "satellite_id": 28,
+                    "elevation": 35,
+                    "azimuth": 260,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 29,
+                    "elevation": 75,
+                    "azimuth": 340,
+                    "snr": 48
+                },
+                {
+                    "satellite_id": 31,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:57",
+        "decoded": {
+            "type": "ZDA",
+            "time": "10:01:06",
+            "day": 3,
+            "month": 4,
+            "year": 2025,
+            "utc_offset_hour": 0,
+            "utc_offset_minute": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:56:58",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:07",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:00",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:01",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:01:07",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:02",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:03",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:04",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 1,
+            "satellites_in_view": 15,
+            "satellites": [
+                {
+                    "satellite_id": 2,
+                    "elevation": 60,
+                    "azimuth": 150,
+                    "snr": 46
+                },
+                {
+                    "satellite_id": 3,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 5,
+                    "elevation": 36,
+                    "azimuth": 104,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 6,
+                    "elevation": null,
+                    "azimuth": null,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:05",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 2,
+            "satellites_in_view": 15,
+            "satellites": [
+                {
+                    "satellite_id": 7,
+                    "elevation": 75,
+                    "azimuth": 340,
+                    "snr": 47
+                },
+                {
+                    "satellite_id": 9,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": 42
+                },
+                {
+                    "satellite_id": 11,
+                    "elevation": 13,
+                    "azimuth": 46,
+                    "snr": 39
+                },
+                {
+                    "satellite_id": 12,
+                    "elevation": 24,
+                    "azimuth": 134,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:06",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 3,
+            "satellites_in_view": 15,
+            "satellites": [
+                {
+                    "satellite_id": 18,
+                    "elevation": 39,
+                    "azimuth": 214,
+                    "snr": 37
+                },
+                {
+                    "satellite_id": 20,
+                    "elevation": 30,
+                    "azimuth": 59,
+                    "snr": 36
+                },
+                {
+                    "satellite_id": 25,
+                    "elevation": 60,
+                    "azimuth": 150,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 26,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:07",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 4,
+            "satellites_in_view": 15,
+            "satellites": [
+                {
+                    "satellite_id": 28,
+                    "elevation": 35,
+                    "azimuth": 260,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 29,
+                    "elevation": 75,
+                    "azimuth": 340,
+                    "snr": 47
+                },
+                {
+                    "satellite_id": 31,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:12",
+        "decoded": {
+            "type": "ZDA",
+            "time": "10:01:07",
+            "day": 3,
+            "month": 4,
+            "year": 2025,
+            "utc_offset_hour": 0,
+            "utc_offset_minute": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:13",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:08",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:14",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:15",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:01:08",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:16",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:17",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:19",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 1,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 2,
+                    "elevation": 60,
+                    "azimuth": 150,
+                    "snr": 46
+                },
+                {
+                    "satellite_id": 3,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": 41
+                },
+                {
+                    "satellite_id": 5,
+                    "elevation": 36,
+                    "azimuth": 104,
+                    "snr": 44
+                },
+                {
+                    "satellite_id": 7,
+                    "elevation": 75,
+                    "azimuth": 340,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:20",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 2,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 9,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 11,
+                    "elevation": 13,
+                    "azimuth": 46,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 12,
+                    "elevation": 24,
+                    "azimuth": 134,
+                    "snr": 41
+                },
+                {
+                    "satellite_id": 18,
+                    "elevation": 39,
+                    "azimuth": 214,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:21",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 3,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 20,
+                    "elevation": 30,
+                    "azimuth": 59,
+                    "snr": 39
+                },
+                {
+                    "satellite_id": 25,
+                    "elevation": 60,
+                    "azimuth": 150,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 26,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": null
+                },
+                {
+                    "satellite_id": 28,
+                    "elevation": 35,
+                    "azimuth": 260,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:22",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 4,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 29,
+                    "elevation": 75,
+                    "azimuth": 340,
+                    "snr": 48
+                },
+                {
+                    "satellite_id": 31,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:27",
+        "decoded": {
+            "type": "ZDA",
+            "time": "10:01:08",
+            "day": 3,
+            "month": 4,
+            "year": 2025,
+            "utc_offset_hour": 0,
+            "utc_offset_minute": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:28",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:09",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:29",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:30",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:01:09",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:31",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:32",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:33",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 1,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 2,
+                    "elevation": 60,
+                    "azimuth": 150,
+                    "snr": 47
+                },
+                {
+                    "satellite_id": 3,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": 42
+                },
+                {
+                    "satellite_id": 5,
+                    "elevation": 36,
+                    "azimuth": 104,
+                    "snr": 44
+                },
+                {
+                    "satellite_id": 7,
+                    "elevation": 75,
+                    "azimuth": 340,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:34",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 2,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 9,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": 44
+                },
+                {
+                    "satellite_id": 11,
+                    "elevation": 13,
+                    "azimuth": 46,
+                    "snr": 41
+                },
+                {
+                    "satellite_id": 12,
+                    "elevation": 24,
+                    "azimuth": 134,
+                    "snr": 42
+                },
+                {
+                    "satellite_id": 18,
+                    "elevation": 39,
+                    "azimuth": 214,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:35",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 3,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 20,
+                    "elevation": 30,
+                    "azimuth": 59,
+                    "snr": 37
+                },
+                {
+                    "satellite_id": 25,
+                    "elevation": 60,
+                    "azimuth": 150,
+                    "snr": 41
+                },
+                {
+                    "satellite_id": 26,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": null
+                },
+                {
+                    "satellite_id": 28,
+                    "elevation": 35,
+                    "azimuth": 260,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:37",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 4,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 29,
+                    "elevation": 75,
+                    "azimuth": 340,
+                    "snr": 48
+                },
+                {
+                    "satellite_id": 31,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:42",
+        "decoded": {
+            "type": "ZDA",
+            "time": "10:01:09",
+            "day": 3,
+            "month": 4,
+            "year": 2025,
+            "utc_offset_hour": 0,
+            "utc_offset_minute": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:43",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:10",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:44",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:45",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:01:10",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:46",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:47",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:48",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 1,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 2,
+                    "elevation": 60,
+                    "azimuth": 150,
+                    "snr": 45
+                },
+                {
+                    "satellite_id": 3,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 5,
+                    "elevation": 36,
+                    "azimuth": 104,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 7,
+                    "elevation": 75,
+                    "azimuth": 340,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:49",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 2,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 9,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": 42
+                },
+                {
+                    "satellite_id": 11,
+                    "elevation": 13,
+                    "azimuth": 46,
+                    "snr": 39
+                },
+                {
+                    "satellite_id": 12,
+                    "elevation": 24,
+                    "azimuth": 134,
+                    "snr": 41
+                },
+                {
+                    "satellite_id": 18,
+                    "elevation": 39,
+                    "azimuth": 214,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:50",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 3,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 20,
+                    "elevation": 30,
+                    "azimuth": 59,
+                    "snr": 39
+                },
+                {
+                    "satellite_id": 25,
+                    "elevation": 60,
+                    "azimuth": 150,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 26,
+                    "elevation": 18,
+                    "azimuth": 311,
+                    "snr": null
+                },
+                {
+                    "satellite_id": 28,
+                    "elevation": 35,
+                    "azimuth": 260,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:51",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 4,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 29,
+                    "elevation": 75,
+                    "azimuth": 340,
+                    "snr": 47
+                },
+                {
+                    "satellite_id": 31,
+                    "elevation": 31,
+                    "azimuth": 290,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:57",
+        "decoded": {
+            "type": "ZDA",
+            "time": "10:01:10",
+            "day": 3,
+            "month": 4,
+            "year": 2025,
+            "utc_offset_hour": 0,
+            "utc_offset_minute": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:58",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:11",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:57:59",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:00",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:01:11",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:01",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:03",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:13",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:04",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:14",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:05",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:15",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:06",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:16",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:07",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:17",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:08",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:18",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:09",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:19",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:10",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:20",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:11",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:21",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:12",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:22",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:14",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:23",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:15",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:24",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:16",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:25",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:17",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:26",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:18",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:27",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:19",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:28",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:20",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:29",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:21",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:30",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:22",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:31",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:23",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:32",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:24",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:34",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:25",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:35",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:26",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:36",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:27",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:37",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:28",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:38",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:29",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:39",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:31",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:40",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:32",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:41",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:33",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:42",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:34",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:43",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:35",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:44",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:36",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:45",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:37",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:46",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:38",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:47",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:39",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:48",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:40",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:49",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:41",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:50",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:42",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:51",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:43",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:53",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:45",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:54",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:46",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:55",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:47",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:56",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:48",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:49",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:01:56",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:50",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:51",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:57",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:52",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:53",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:01:57",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:54",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:55",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:58",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:56",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:57",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:01:58",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:58",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:58:59",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:01:59",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:00",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:02",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:01:59",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:03",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:00",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:04",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:01",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:05",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:02",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:06",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:04",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:07",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:06",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:08",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:09",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:07",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:10",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:08",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:11",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:09",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:12",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:10",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:13",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:11",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:14",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:12",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:16",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:13",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:17",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:14",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:18",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:15",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:19",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:16",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:20",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:17",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:21",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:18",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:22",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:20",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:23",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:24",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:21",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:25",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:23",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:26",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:24",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:27",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:25",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:28",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:26",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:30",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:27",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:31",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:28",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:32",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:29",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:33",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:30",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:34",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:35",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:31",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:36",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:32",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:37",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:33",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:38",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:35",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:39",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:40",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:36",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:41",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:37",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:43",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:43",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:45",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:44",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:46",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:45",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:47",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:46",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:48",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:47",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:49",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:48",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:50",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:49",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:51",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:02:50",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:54",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:04:30",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:55",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:56",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:04:30",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:58",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 09:59:59",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:00",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 1,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 2,
+                    "elevation": 58,
+                    "azimuth": 152,
+                    "snr": 31
+                },
+                {
+                    "satellite_id": 3,
+                    "elevation": 20,
+                    "azimuth": 311,
+                    "snr": 38
+                },
+                {
+                    "satellite_id": 5,
+                    "elevation": 37,
+                    "azimuth": 104,
+                    "snr": 41
+                },
+                {
+                    "satellite_id": 7,
+                    "elevation": 76,
+                    "azimuth": 343,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:01",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 2,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 9,
+                    "elevation": 31,
+                    "azimuth": 288,
+                    "snr": 41
+                },
+                {
+                    "satellite_id": 11,
+                    "elevation": 13,
+                    "azimuth": 46,
+                    "snr": 36
+                },
+                {
+                    "satellite_id": 12,
+                    "elevation": 23,
+                    "azimuth": 136,
+                    "snr": 38
+                },
+                {
+                    "satellite_id": 18,
+                    "elevation": 40,
+                    "azimuth": 215,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:02",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 3,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 20,
+                    "elevation": 30,
+                    "azimuth": 59,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 25,
+                    "elevation": 58,
+                    "azimuth": 152,
+                    "snr": 43
+                },
+                {
+                    "satellite_id": 26,
+                    "elevation": 19,
+                    "azimuth": 311,
+                    "snr": null
+                },
+                {
+                    "satellite_id": 28,
+                    "elevation": 34,
+                    "azimuth": 258,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:03",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 4,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 29,
+                    "elevation": 76,
+                    "azimuth": 343,
+                    "snr": 46
+                },
+                {
+                    "satellite_id": 31,
+                    "elevation": 31,
+                    "azimuth": 288,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:08",
+        "decoded": {
+            "type": "ZDA",
+            "time": "10:04:30",
+            "day": 3,
+            "month": 4,
+            "year": 2025,
+            "utc_offset_hour": 0,
+            "utc_offset_minute": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:09",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:04:31",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:10",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:11",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:04:31",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:12",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:13",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:15",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 1,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 2,
+                    "elevation": 58,
+                    "azimuth": 152,
+                    "snr": 33
+                },
+                {
+                    "satellite_id": 3,
+                    "elevation": 20,
+                    "azimuth": 311,
+                    "snr": 33
+                },
+                {
+                    "satellite_id": 5,
+                    "elevation": 37,
+                    "azimuth": 104,
+                    "snr": 37
+                },
+                {
+                    "satellite_id": 7,
+                    "elevation": 76,
+                    "azimuth": 343,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:16",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 2,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 9,
+                    "elevation": 31,
+                    "azimuth": 288,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 11,
+                    "elevation": 13,
+                    "azimuth": 46,
+                    "snr": 36
+                },
+                {
+                    "satellite_id": 12,
+                    "elevation": 23,
+                    "azimuth": 136,
+                    "snr": 38
+                },
+                {
+                    "satellite_id": 18,
+                    "elevation": 40,
+                    "azimuth": 215,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:17",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 3,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 20,
+                    "elevation": 30,
+                    "azimuth": 59,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 25,
+                    "elevation": 58,
+                    "azimuth": 152,
+                    "snr": 39
+                },
+                {
+                    "satellite_id": 26,
+                    "elevation": 19,
+                    "azimuth": 311,
+                    "snr": null
+                },
+                {
+                    "satellite_id": 28,
+                    "elevation": 34,
+                    "azimuth": 258,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:18",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 4,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 29,
+                    "elevation": 76,
+                    "azimuth": 343,
+                    "snr": 44
+                },
+                {
+                    "satellite_id": 31,
+                    "elevation": 31,
+                    "azimuth": 288,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:23",
+        "decoded": {
+            "type": "ZDA",
+            "time": "10:04:31",
+            "day": 3,
+            "month": 4,
+            "year": 2025,
+            "utc_offset_hour": 0,
+            "utc_offset_minute": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:24",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:04:32",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:25",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:26",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:04:32",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:27",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:28",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:29",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 1,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 2,
+                    "elevation": 58,
+                    "azimuth": 152,
+                    "snr": 35
+                },
+                {
+                    "satellite_id": 3,
+                    "elevation": 20,
+                    "azimuth": 311,
+                    "snr": 35
+                },
+                {
+                    "satellite_id": 5,
+                    "elevation": 37,
+                    "azimuth": 104,
+                    "snr": 37
+                },
+                {
+                    "satellite_id": 7,
+                    "elevation": 76,
+                    "azimuth": 343,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:30",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 2,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 9,
+                    "elevation": 31,
+                    "azimuth": 288,
+                    "snr": 41
+                },
+                {
+                    "satellite_id": 11,
+                    "elevation": 13,
+                    "azimuth": 46,
+                    "snr": 35
+                },
+                {
+                    "satellite_id": 12,
+                    "elevation": 23,
+                    "azimuth": 136,
+                    "snr": 37
+                },
+                {
+                    "satellite_id": 18,
+                    "elevation": 40,
+                    "azimuth": 215,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:31",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 3,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 20,
+                    "elevation": 30,
+                    "azimuth": 59,
+                    "snr": 39
+                },
+                {
+                    "satellite_id": 25,
+                    "elevation": 57,
+                    "azimuth": 152,
+                    "snr": 39
+                },
+                {
+                    "satellite_id": 26,
+                    "elevation": 19,
+                    "azimuth": 311,
+                    "snr": null
+                },
+                {
+                    "satellite_id": 28,
+                    "elevation": 34,
+                    "azimuth": 258,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:33",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 4,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 29,
+                    "elevation": 76,
+                    "azimuth": 343,
+                    "snr": 45
+                },
+                {
+                    "satellite_id": 31,
+                    "elevation": 31,
+                    "azimuth": 288,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:38",
+        "decoded": {
+            "type": "ZDA",
+            "time": "10:04:32",
+            "day": 3,
+            "month": 4,
+            "year": 2025,
+            "utc_offset_hour": 0,
+            "utc_offset_minute": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:39",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:04:33",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:40",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:41",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:04:33",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:42",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:43",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:44",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 1,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 2,
+                    "elevation": 58,
+                    "azimuth": 152,
+                    "snr": 35
+                },
+                {
+                    "satellite_id": 3,
+                    "elevation": 20,
+                    "azimuth": 311,
+                    "snr": 32
+                },
+                {
+                    "satellite_id": 5,
+                    "elevation": 37,
+                    "azimuth": 104,
+                    "snr": 36
+                },
+                {
+                    "satellite_id": 7,
+                    "elevation": 76,
+                    "azimuth": 343,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:45",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 2,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 9,
+                    "elevation": 31,
+                    "azimuth": 288,
+                    "snr": 41
+                },
+                {
+                    "satellite_id": 11,
+                    "elevation": 13,
+                    "azimuth": 46,
+                    "snr": 36
+                },
+                {
+                    "satellite_id": 12,
+                    "elevation": 23,
+                    "azimuth": 136,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 18,
+                    "elevation": 40,
+                    "azimuth": 215,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:46",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 3,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 20,
+                    "elevation": 30,
+                    "azimuth": 59,
+                    "snr": 41
+                },
+                {
+                    "satellite_id": 25,
+                    "elevation": 57,
+                    "azimuth": 152,
+                    "snr": 38
+                },
+                {
+                    "satellite_id": 26,
+                    "elevation": 20,
+                    "azimuth": 311,
+                    "snr": null
+                },
+                {
+                    "satellite_id": 28,
+                    "elevation": 34,
+                    "azimuth": 258,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:47",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 4,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 29,
+                    "elevation": 76,
+                    "azimuth": 343,
+                    "snr": 46
+                },
+                {
+                    "satellite_id": 31,
+                    "elevation": 31,
+                    "azimuth": 288,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:52",
+        "decoded": {
+            "type": "ZDA",
+            "time": "10:04:33",
+            "day": 3,
+            "month": 4,
+            "year": 2025,
+            "utc_offset_hour": 0,
+            "utc_offset_minute": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:54",
+        "decoded": {
+            "type": "RMC",
+            "time": "10:04:34",
+            "status": "V",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "speed": null,
+            "course": null,
+            "date": "2025-04-03",
+            "magnetic_variation": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:55",
+        "decoded": {
+            "type": "VTG",
+            "true_course": null,
+            "magnetic_course": null,
+            "speed_knots": null,
+            "speed_kmh": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:56",
+        "decoded": {
+            "type": "GGA",
+            "time": "10:04:34",
+            "latitude": 0.0,
+            "longitude": 0.0,
+            "fix_quality": 0,
+            "satellites": 0,
+            "hdop": 99.99,
+            "altitude": null,
+            "geoid_height": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:57",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:58",
+        "decoded": {
+            "type": "GSA",
+            "mode": "A",
+            "fix_type": 1,
+            "satellites_used": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+            ],
+            "pdop": 99.99,
+            "hdop": 99.99,
+            "vdop": null
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:00:59",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 1,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 2,
+                    "elevation": 58,
+                    "azimuth": 152,
+                    "snr": 35
+                },
+                {
+                    "satellite_id": 3,
+                    "elevation": 20,
+                    "azimuth": 311,
+                    "snr": 37
+                },
+                {
+                    "satellite_id": 5,
+                    "elevation": 37,
+                    "azimuth": 104,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 7,
+                    "elevation": 76,
+                    "azimuth": 343,
+                    "snr": null
+                }
+            ]
+        }
+    },
+    {
+        "timestamp": "2025-04-03 10:01:00",
+        "decoded": {
+            "type": "GSV",
+            "total_messages": 4,
+            "message_number": 2,
+            "satellites_in_view": 14,
+            "satellites": [
+                {
+                    "satellite_id": 9,
+                    "elevation": 31,
+                    "azimuth": 288,
+                    "snr": 41
+                },
+                {
+                    "satellite_id": 11,
+                    "elevation": 13,
+                    "azimuth": 46,
+                    "snr": 37
+                },
+                {
+                    "satellite_id": 12,
+                    "elevation": 23,
+                    "azimuth": 136,
+                    "snr": 40
+                },
+                {
+                    "satellite_id": 18,
+                    "elevation": 40,
+                    "azimuth": 215,
+                    "snr": 

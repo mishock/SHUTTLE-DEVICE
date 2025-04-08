@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  can_service:
+    build: .
+    container_name: can_container
+    privileged: true  # Дает контейнеру полный доступ к устройствам
+    volumes:
+      - ./logs:/app/logs
+      - ./config:/app/config
+    environment:
+      - LOG_CAN=/app/logs/can_log.txt
+    devices:
+      - "/dev/can1:/dev/can1"
+    network_mode: "host"

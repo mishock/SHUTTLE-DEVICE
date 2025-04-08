@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  sense_service:
+    build: .
+    container_name: sense_container
+    privileged: true  # Дает контейнеру полный доступ к устройствам
+    volumes:
+      - ./logs:/app/logs
+      - ./config:/app/config
+    environment:
+      - CONFIG_PATH=/app/config/settings.ini
+    devices:
+      - "/dev/i2c-1:/dev/i2c-1"
+    network_mode: "host"

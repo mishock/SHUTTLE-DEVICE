@@ -1,0 +1,1 @@
+2025-04-02 10:33:24,548 - ERROR - Ошибка NATS: nats: no servers available for connection
